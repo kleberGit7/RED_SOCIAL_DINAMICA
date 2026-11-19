@@ -1,4 +1,4 @@
-# RED SOCIAL DINÁMICA
+# RED SOCIAL DINÁMICA - GRUPO 4
 
 ## Objetivo
 Simular el funcionamiento de un grafo dinámico mediante la creación, modificación y eliminación de usuarios y relaciones.
